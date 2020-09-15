@@ -1,0 +1,12 @@
+{
+  "name": "Coffee-menu",
+  "displayName": "Coffee-menu",
+  "expo": {
+    "name": "Coffee-menu",
+    "slug": "Coffee-menu",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
